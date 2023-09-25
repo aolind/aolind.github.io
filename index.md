@@ -12,14 +12,14 @@ I obtained my Ph.D. in Computer Engineering from [<font color='0074cc'>Rutgers U
 
 ## Publications
 
-<!-- - **ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks**
-Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li
-The 33st USENIX Security Symposium (USENIX Security 2024)
+<!-- - **ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks**\
+Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
+The 33st USENIX Security Symposium (USENIX Security 2024)\
 Philadelphia, PA, Aug 2024
 </br> -->
 - **Resource-aware DNN Partitioning for Privacy-sensitive Edge-Cloud Systems**
-**Aolin Ding**, Amin Hass, Matthew Chan, Nader Sehatbakhsh, Saman Zonouz
-The International Conference on Neural Information Processing (ICONIP 2023)
+**Aolin Ding**, Amin Hass, Matthew Chan, Nader Sehatbakhsh, Saman Zonouz\
+The International Conference on Neural Information Processing (ICONIP 2023)\
 Changsha, China, Nov 2023
 
 - [**<font color='#0074cc'>Get Your Cyber-Physical Tests Done! Data-Driven Vulnerability Assessment of Robotic Aerial Vehicles</font>**](https://publications.cispa.saarland/3937/1/ding23robotic.pdf)\
