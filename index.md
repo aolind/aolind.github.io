@@ -6,7 +6,7 @@ layout: page
 
 Here is **Aolin Ding**. I am a research associate principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). My research focuses on the security of cyber-physical systems, IoT, and edge computing systems through software analysis, physics-based verification, and AI-powered assessment.
 
-I obtained my Ph.D. in Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. I received my B.S. degree in Electrical Engineering from UESTC in 2015.
+I obtained my Ph.D. in Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. I received my B.S. degree in Electrical Engineering from [<font color='0074cc'>UESTC</font>](https://en.uestc.edu.cn/) in 2015.
 
 ---
 
