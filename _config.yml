@@ -28,11 +28,11 @@ owner:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About
-    url: /
-  - title: CV
-    url: /files/CV_Ding.pdf
+# links:
+#   - title: About
+#     url: /
+#   - title: CV
+#     url: /files/CV_Ding.pdf
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

@@ -6,7 +6,7 @@ layout: page
 
 Here is **Aolin Ding**. I am a research associate principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). My research focuses on the security of cyber-physical systems and privacy of IoT/edge computing systems through software analysis, physics-based verification and AI-powered assessment.
 
-I obtained my Ph.D. from Department of Electrical and Computer Engineering of [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. I received my B.S. degree in School of Automation Engineering from University of Electronic Science and Technology of China.
+I obtained my Ph.D. of Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. I received my B.S. degree in School of Automation Engineering from University of Electronic Science and Technology of China.
 
 ---
 
@@ -51,5 +51,5 @@ San Sebastian, Spain, Oct 2021
 ## Academic Services
 
 - **Program Committee:** RICSS 23', SensorsS&P 23'
-- **Artifact Evaluation Committee:** NDSS 2024, EuroSys 2024
+- **Artifact Evaluation Committee:** NDSS 24', EuroSys 24'
 - **Reviewer:** Computers & Security Journal, USENIX Security 22' 23', NDSS 21' 23', ICONIP 23'
