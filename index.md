@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 Here is **Aolin Ding**. I am a research associate principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). My research focuses on the security of cyber-physical systems, industrial IoT, and edge computing systems through software analysis, physics-based verification, and AI-powered assessment.
 
