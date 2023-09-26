@@ -31,10 +31,10 @@ google_verify: "6Jrcro6NbOhaTCuut0oILOdv8Kocq_tFy0t3d4EtOIk"
 links:
   - title: About Me
     url: /
+  - title: Publications
+    url: /publications/
   - title: CV
     url: /CV/
-  - title: Publications
-    url: /publication/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
