@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Publications
+## Papers
 
 <!-- - **ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks**\
 Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
@@ -13,7 +13,7 @@ Philadelphia, PA, Aug 2024
 </br> -->
 - **Resource-aware DNN Partitioning for Privacy-sensitive Edge-Cloud Systems**\
 **Aolin Ding**, Amin Hass, Matthew Chan, Nader Sehatbakhsh, Saman Zonouz\
-The International Conference on Neural Information Processing (ICONIP 2023)\
+The 30th International Conference on Neural Information Processing (ICONIP 2023)\
 Changsha, China, Nov 2023
 
 - [**<font color='#0074cc'>Get Your Cyber-Physical Tests Done! Data-Driven Vulnerability Assessment of Robotic Aerial Vehicles</font>**](https://publications.cispa.saarland/3937/1/ding23robotic.pdf)\
@@ -35,7 +35,7 @@ Takumi Yamamoto, Tsunato Nakai, Ruri Otsuka, Ye Wang, Kyeong Jin Kim, Toshiaki K
 The 39th Symposium on Cryptography and Information Security (SCIS 2022)\
 Osaka, Japan, Jan 2022
 
-- [**<font color='#0074cc'>Mini-me, You Complete Me! Data-driven Drone Security via DNN-based Approximate Computing</font>**](https://www.iwsec.org/scis/2022/program.html)\
+- [**<font color='#0074cc'>Mini-me, You Complete Me! Data-driven Drone Security via DNN-based Approximate Computing</font>**](https://dl.acm.org/doi/pdf/10.1145/3471621.3471869)\
 **Aolin Ding**, Praveen Murthy, Luis Garcia, Pengfei Sun, Matthew Chan, Saman Zonouz\
-The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2021)\
+The 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2021)\
 San Sebastian, Spain, Oct 2021
