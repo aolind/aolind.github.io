@@ -19,12 +19,12 @@ Changsha, China, Nov 2023 <font color='gray'>(Acceptance Rate: TBD%)</font>
 - [**<font color='#0074cc'>Get Your Cyber-Physical Tests Done! Data-Driven Vulnerability Assessment of Robotic Aerial Vehicles</font>**](https://publications.cispa.saarland/3937/1/ding23robotic.pdf)\
 **Aolin Ding**, Matthew Chan, Amin Hass, Nils Ole Tippenhauer, Shiqing Ma, Saman Zonouz\
 The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (DSN 2023)\
-Porto, Portugal, June 2023 <font color='gray'>(Acceptance Rate: 20.0%)</font>
+Porto, Portugal, Jun 2023 <font color='gray'>(Acceptance Rate: 20.0%)</font>
 
 - [**<font color='#0074cc'>Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch</font>**](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938)\
 Taegyu Kim, **Aolin Ding**, Sriharsha Etigowni, Pengfei Sun, Jizhou Chen, Luis Garcia, Saman Zonouz, Dongyan Xu, Dave (Jing) Tian\
 The 20th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2022)\
-Portland, OR, June 2022 <font color='gray'>(Acceptance Rate: 21.6%)</font>
+Portland, OR, Jun 2022 <font color='gray'>(Acceptance Rate: 21.6%)</font>
 
 - [**<font color='#0074cc'>Enhancement of Attack Detection Technology using AI with Synthetic-Log Generation</font>**](https://www.iwsec.org/scis/2022/program.html)\
 Takumi Yamamoto, Tsunato Nakai, Ruri Otsuka, Ye Wang, Kyeong Jin Kim, Toshiaki Koike-Akino, Iván Sanz Gorrachategui, **Aolin Ding**, Mamoru Abe, Ayako Yoshimura, and Kiyoto Kawauchi\

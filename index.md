@@ -17,5 +17,5 @@ Please email me if you are interested in identifying and addressing the security
 ## Academic Services
 
 - **Program Committee:** RICSS '23, SensorsS&P '23
-- **Artifact Evaluation Committee:** NDSS '24, EuroSys '24
+- **Artifact Evaluation Committee:** USENIX Security '24, NDSS '24, EuroSys '24
 - **Reviewer:** Computers & Security Journal, USENIX Security '22 '23, NDSS '21 '23, ICONIP '23
