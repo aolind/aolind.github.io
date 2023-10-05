@@ -6,11 +6,11 @@ title: Publications
 
 ## Conference Papers
 
-<!-- - **ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks**\
+- **ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks**\
 Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
-The 33st USENIX Security Symposium (USENIX Security 2024)\
-Philadelphia, PA, Aug 2024
-</br> -->
+The 33rd USENIX Security Symposium (USENIX Security 2024)\
+Philadelphia, PA, Aug 2024 <font color='gray'>(Acceptance Rate: 19.0%)</font>
+
 - **Resource-aware DNN Partitioning for Privacy-sensitive Edge-Cloud Systems**\
 **Aolin Ding**, Amin Hass, Matthew Chan, Nader Sehatbakhsh, Saman Zonouz\
 The 30th International Conference on Neural Information Processing (ICONIP 2023)\

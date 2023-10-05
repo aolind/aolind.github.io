@@ -10,12 +10,12 @@ Here is **Aolin Ding**. I am a research associate principal in [<font color='007
 Always volunteer to serve on Conference/Journal Program Committee or as a Paper Reviewer.
 
 - **Looking for research collaborations in <font color='red'>Security of GenAI</font>**\
-Please email me if you are interested in identifying and addressing the security and privacy challenges in Generative AI (GenAI) or Large Language Model (LLM) domain.
+Please email me if you are interested in identifying and addressing the security and privacy challenges of Generative AI (GenAI) or Large Language Model (LLM).
 
 ---
 
 ## Academic Services
 
-- **Program Committee:** RICSS 23', SensorsS&P 23'
-- **Artifact Evaluation Committee:** NDSS 24', EuroSys 24'
-- **Reviewer:** Computers & Security Journal, USENIX Security 22' 23', NDSS 21' 23', ICONIP 23'
+- **Program Committee:** RICSS '23, SensorsS&P '23
+- **Artifact Evaluation Committee:** NDSS '24, EuroSys '24
+- **Reviewer:** Computers & Security Journal, USENIX Security '22 '23, NDSS '21 '23, ICONIP '23
