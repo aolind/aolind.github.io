@@ -11,6 +11,11 @@ Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, 
 The 33rd USENIX Security Symposium (USENIX Security 2024)\
 Philadelphia, PA, Aug 2024 <font color='gray'>(Acceptance Rate: 19.0%)</font>
 
+- [**<font color='#0074cc'>Build a Computationally Efficient Strong Defense against Adversarial Example Attacks</font>**](https://icissp.scitevents.org/Home.aspx)\
+Changwei Liu, Louis DiValentin, **Aolin Ding**, Malek Ben Salem\
+The 10th International Conference on Information Systems Security and Privacy (ICISSP 2024)\
+Rome, Italy, Feb 2024 <font color='gray'>(Acceptance Rate: TBD)</font>
+
 - [**<font color='#0074cc'>Resource-aware DNN Partitioning for Privacy-sensitive Edge-Cloud Systems</font>**](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_15)\
 **Aolin Ding**, Amin Hass, Matthew Chan, Nader Sehatbakhsh, Saman Zonouz\
 The 30th International Conference on Neural Information Processing (ICONIP 2023)\
