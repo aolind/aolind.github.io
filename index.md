@@ -18,4 +18,4 @@ Please email me if you are interested in identifying and addressing the security
 
 - **Program Committee:** RICSS '23, SensorsS&P '23, ILRN '24
 - **Artifact Evaluation Committee:** USENIX Security '24, NDSS '24, EuroSys '24
-- **Reviewer:** Computers & Security Journal, USENIX Security '22 '23, NDSS '21 '23, ICONIP '23, IMWUT 23', IEEE VR '24, ICISSP '24
+- **(External) Reviewer:** Computers & Security Journal, USENIX Security '22 '23, NDSS '21 '23, VehicleSec '23 '24, ICONIP '23, IMWUT '23, IEEE VR '24, ICISSP '24
