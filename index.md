@@ -11,8 +11,32 @@ Please email me if you are interested in addressing the privacy challenges of La
 
 ---
 
-## Academic Services
+## Professional Services
 
-- **Program Committee:** ACSAC '24, SmartSP '24, ILRN '24, RICSS '23, SensorsS&P '23
-- **Artifact Evaluation Committee:** USENIX Security '24, NDSS '24, EuroSys '24
-- **(External) Reviewer:** Computers & Security Journal, USENIX Security '22 '23, NDSS '21 '23, VehicleSec '23 '24, ICONIP '23, IMWUT '23, IEEE VR '24, ICISSP '24
+**Program Committee:**
+- Annual Computer Security Applications Conference (**ACSAC**) 2024
+- International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**) 2024
+- International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
+- International Conference of the Immersive Learning Research Network (**iLRN**) 2024
+- International Workshop on Re-design Industrial Control Systems with Security (**RICSS**) 2023
+- International Workshop on Security and Privacy of Sensing Systems (**SensorsS&P**) 2023
+
+**Artifact Evaluation Committee:** 
+- USENIX Security Symposium (**USENIX**) 2024
+- Network and Distributed System Security Symposium (**NDSS**) 2024
+- European Conference on Computer Systems (**EuroSys**) 2024
+
+**Journal Reviewer:**
+- Computers & Security
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
+
+
+**(External) Conference Reviewer:**
+- USENIX Security Symposium (**USENIX**) 2022, 2023
+- Network and Distributed System Security Symposium (**NDSS**) 2021, 2023
+- IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) 2024
+- IEEE Symposium on Computer Applications & Industrial Electronics (**ISCAIE**) 2024
+- International Conference on Information Systems Security and Privacy (**ICISSP**) 2024
+- Symposium on Vehicle Security and Privacy (**VehicleSec**) 2023, 2024
+- International Conference on Neural Information Processing (**ICONIP**) 2023
