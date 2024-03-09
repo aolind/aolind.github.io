@@ -4,14 +4,18 @@ layout: page
 
 ## About Me
 
-Here is **Aolin Ding**. I am a Research Associate Principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). My research focuses on the security of cyber-physical systems, industrial IoT, and embedded systems through software analysis, physics-based monitoring, and data-driven assessment. I also develop a passion for AI security research, such as generative AI, privacy-preserving ML, and virtual reality. I obtained my Ph.D. in Electrical and Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. I received my B.E. degree in Electrical Engineering from [<font color='0074cc'>UESTC</font>](https://en.uestc.edu.cn/) in 2015.
+Here is **Aolin Ding**. I am a Research Associate Principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). My research focuses on the security of cyber-physical systems, industrial IoT, and embedded systems. In these domains, I leverage a combination of software analysis, physics-based monitoring, and learning-based approaches to develop innovative security solutions. At Accenture, my interest extends to applied AI for cybersecurity, particularly in addressing security challenges through emerging techniques that are recently possible and likely to be impactful in the near future. This includes work with large language models (LLMs), privacy-preserving machine learning, and virtual reality.
+
+I obtained my Ph.D. in Electrical and Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. Before that, I had a multicultural undergraduate study, spending my four-year bachelor life across three universities: UESTC, I-Shou, and Rutgers. I received my B.E. degree in Electrical Engineering from [<font color='0074cc'>UESTC</font>](https://en.uestc.edu.cn/) in 2015.
+
+I am always enthusiastic about contributing to the security research community. I have a solid record of [<font color='0074cc'>publications</font>](https://aolind.github.io/publications/) and professional services at leading security conferences. More information about my work and achievements can be found in my [<font color='0074cc'>CV</font>](https://aolind.github.io/CV/).
 
 - **Email:**
     ```
     $ echo YS5kaW5nQGFjY2VudHVyZS5jb20= | base64 --decode
     ```
 - **Looking for research collaborations in <font color='red'>Security of LLM</font>**\
-Please email me if you are interested in addressing the privacy challenges of Large Language Models (LLMs) or developing innovative applications of LLMs to cybersecurity tasks.
+Please contact me if you are interested in addressing the privacy challenges of LLMs or developing innovative applications of LLMs to cybersecurity tasks.
 
 ---
 
