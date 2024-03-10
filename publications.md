@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Conference Papers
+### Conference Papers
 
 - [**<font color='#0074cc'>ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks</font>**](https://www.usenix.org/conference/usenixsecurity24/presentation/tang)\
 Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
@@ -41,12 +41,12 @@ Osaka, Japan, Jan 2022 <font color='gray'>(Acceptance Rate: N/A)</font>
 The 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2021)\
 San Sebastian, Spain, Oct 2021 <font color='gray'>(Acceptance Rate: 23.2%)</font>
 
-## Preprints
+### Preprints
 - [**<font color='#0074cc'>FADE: Enabling Large-Scale Federated Adversarial Training on Resource-Constrained Edge Device</font>**](https://arxiv.org/pdf/2209.03839.pdf)\
 Tang, Minxue, Jianyi Zhang, Mingyuan Ma, Louis DiValentin, **Aolin Ding**, Amin Hassanzadeh, Hai Li, Yiran Chen\
 arXiv preprint - arXiv:2209.03839 (2022)
 
-## Posters
+### Posters
 - [**<font color='#0074cc'>Protect Controller Software Using Approximate Computing and Semantic Matching-based Binary Patching</font>**](http://publish.illinois.edu/2019credciw/files/2020/02/new-rutgers-activity_2020_CREDC_Workshop_Poster_Rutgers.pdf)\
 **Aolin Ding**, Pengfei Sun, Saman Zonouz\
 Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, Houston, TX, Feb 2020
@@ -55,7 +55,7 @@ Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, H
 **Aolin Ding**, Sriharsha Etigowni, Saman Zonouz\
 Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, Tempe, AZ, Mar 2017
 
-## Patents
+### Patents
 - [**<font color='#0074cc'>Privacy-preserving Machine Learning Training Based on Homomorphic Encryption using Executable File Packages in an Untrusted Environment</font>**](https://patents.google.com/patent/US20230025754A1/en)\
 Amin Hassanzadeh, Neil Hayden Liberman, **Aolin Ding**, Malek Ben Salem\
 US Patent App. 17/383,314, 2023
