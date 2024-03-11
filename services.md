@@ -18,6 +18,7 @@ title: Professional Services
 - European Conference on Computer Systems (**EuroSys**) 2024
 
 ### Journal Reviewer:
+- IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 - Computers & Security
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)

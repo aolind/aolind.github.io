@@ -8,7 +8,7 @@ Here is **Aolin Ding**. I am a Research Associate Principal in [<font color='007
 
 ### Research Interests
 
-My research focuses on the **`security`** of **cyber-physical systems**, **industrial IoT**, and **embedded systems**. In these domains, I leverage a combination of software analysis, physics-based monitoring, and learning-based approaches to develop innovative security solutions. At Accenture, my interest extends to applied AI for cybersecurity, particularly in addressing security challenges through emerging techniques that are recently possible and likely to be impactful in the near future. This includes work with large language models (LLMs), privacy-preserving machine learning, and virtual reality.
+My research focuses on the **`security`** of **cyber-physical systems**, **industrial IoT**, and **embedded systems**. In these domains, I leverage a combination of software analysis, physics-based monitoring, and learning-based approaches to develop innovative security solutions. At Accenture, my interest extends to applied AI for cybersecurity, particularly in addressing security challenges through emerging techniques, including large language models (LLMs), privacy-preserving machine learning, and virtual reality.
 
 I am always enthusiastic about contributing to the security research community. I have a solid record of [<font color='0074cc'>publications</font>](https://aolind.github.io/publications/) and [<font color='0074cc'>professional services</font>](https://aolind.github.io/services/) at leading security conferences. Click [<font color='0074cc'>here</font>](https://aolind.github.io/CV/) for my complete CV.
 
