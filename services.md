@@ -20,6 +20,7 @@ title: Professional Services
 ### Journal Reviewer:
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 - Computers & Security
+- ACM Transactions on Privacy and Security (**TOPS**)
 - IEEE/ACM Transactions on Networking (**ToN**)
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
@@ -29,7 +30,8 @@ title: Professional Services
 - USENIX Security Symposium (**USENIX**) 2022, 2023
 - Network and Distributed System Security Symposium (**NDSS**) 2021, 2023
 - IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) 2024
-- IEEE Symposium on Computer Applications & Industrial Electronics (**ISCAIE**) 2024
 - International Conference on Information Systems Security and Privacy (**ICISSP**) 2024
+- IEEE Symposium on Wireless Technology & Applications (**ISWTA**) 2024
+- IEEE Symposium on Computer Applications & Industrial Electronics (**ISCAIE**) 2024
 - Symposium on Vehicle Security and Privacy (**VehicleSec**) 2023, 2024
 - International Conference on Neural Information Processing (**ICONIP**) 2023
