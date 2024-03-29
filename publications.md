@@ -7,6 +7,7 @@ title: Publications
 ### Conference Papers
 
 - [**<font color='#0074cc'>ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks</font>**](https://www.usenix.org/conference/usenixsecurity24/presentation/tang)\
+[<font color='red'>Artifact Available, Functional, Reproduced</font>](https://github.com/Yoruko-Tang/ModelGuard)\
 Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
 The 33rd USENIX Security Symposium (USENIX Security 2024)\
 Philadelphia, PA, Aug 2024 <font color='gray'>(Acceptance Rate: 19.0%)</font>
