@@ -13,6 +13,7 @@ title: Professional Services
 
 ### Artifact Evaluation Committee:
 - USENIX Security Symposium (**USENIX**) 2024
+- ACM Conference on Computer and Communications Security (**CCS**) 2024
 - Network and Distributed System Security Symposium (**NDSS**) 2024
 - European Conference on Computer Systems (**EuroSys**) 2024
 
