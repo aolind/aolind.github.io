@@ -5,6 +5,7 @@ title: Professional Services
 ---
 
 ### Program Committee:
+- IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) 2025
 - Annual Computer Security Applications Conference (**ACSAC**) 2024
 - International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**) 2024
 - International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
