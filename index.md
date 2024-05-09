@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-Here is **Aolin Ding**. I am a Research Associate Principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). I obtained my Ph.D. in Electrical and Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. During my Ph.D., I interned and worked with many distinguished researchers at Accenture and MERL. Prior to that, I had a multicultural undergraduate study, spending my four-year bachelor life across three universities: UESTC, I-Shou, and Rutgers. I received my B.E. degree in Electrical Engineering from [<font color='0074cc'>UESTC</font>](https://en.uestc.edu.cn/) in 2015.
+Here is **Aolin Ding**. I am a Research Associate Principal in [<font color='0074cc'>Accenture Labs</font>](https://www.accenture.com/us-en/about/accenture-labs-index). I obtained my Ph.D. in Electrical and Computer Engineering from [<font color='0074cc'>Rutgers University</font>](https://www.ece.rutgers.edu/) in 2022 under the guidance of [<font color='0074cc'>Prof. Saman Zonouz</font>](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) – who is now at Georgia Tech. During my Ph.D., I had two research internships at Accenture and MERL. Prior to that, I had a multicultural undergraduate study, spending my four-year bachelor life across three universities: UESTC, I-Shou, and Rutgers. I received my B.E. degree in Electrical Engineering from [<font color='0074cc'>UESTC</font>](https://en.uestc.edu.cn/) in 2015.
 
 ### Research Interests
 
