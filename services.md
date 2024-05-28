@@ -8,9 +8,10 @@ title: Professional Services
 - IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) 2025
 - Annual Computer Security Applications Conference (**ACSAC**) 2024
 - International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**) 2024
+- International Conference on Information Systems Security (**ICISS**) 2024
+- International Conference on Information Systems Security and Privacy (**ICISSP**) 2025
 - International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
 - International Workshop on Re-design Industrial Control Systems with Security (**RICSS**) 2023, 2024
-- International Workshop on Security and Privacy of Sensing Systems (**SensorsS&P**) 2023
 
 ### Artifact Evaluation Committee:
 - USENIX Security Symposium (**USENIX**) 2024
