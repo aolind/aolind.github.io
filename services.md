@@ -5,6 +5,7 @@ title: Professional Services
 ---
 
 ### Program Committee:
+- Network and Distributed System Security Symposium (**NDSS**) 2025
 - IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) 2025
 - Annual Computer Security Applications Conference (**ACSAC**) 2024
 - International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**) 2024
@@ -16,7 +17,7 @@ title: Professional Services
 ### Artifact Evaluation Committee:
 - USENIX Security Symposium (**USENIX**) 2024
 - ACM Conference on Computer and Communications Security (**CCS**) 2024
-- Network and Distributed System Security Symposium (**NDSS**) 2024
+- Network and Distributed System Security Symposium (**NDSS**) 2024, 2025
 - European Conference on Computer Systems (**EuroSys**) 2024
 
 ### Journal Reviewer:
@@ -24,6 +25,7 @@ title: Professional Services
 - Computers & Security
 - ACM Transactions on Privacy and Security (**TOPS**)
 - IEEE/ACM Transactions on Networking (**ToN**)
+- Computer Networks
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 

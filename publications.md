@@ -12,12 +12,12 @@ Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, 
 The 33rd USENIX Security Symposium (USENIX Security 2024)\
 Philadelphia, PA, Aug 2024 <font color='gray'>(Acceptance Rate: 19.0%)</font>
 
-- [**<font color='#0074cc'>Virtual Keymysteries Unveiled: Detecting Keystrokes in VR with External Side-Channels</font>**](https://safe-things-2024.github.io/)\
+- [**<font color='#0074cc'>Virtual Keymysteries Unveiled: Detecting Keystrokes in VR with External Side-Channels</font>**](https://safe-things-2024.github.io/accepted_papers/safethings24-final5.pdf)\
 Hossein Khalili, Alexander Chen, Theodoros Papaiakovou, Timothy Jacques, Hao-Jen Chien, Changwei Liu, **Aolin Ding**, Amin Hass, Saman Zonouz, Nader Sehatbakhsh\
 The 8th IEEE/ACM Workshop on the Internet of Safe Things (SafeThings 2024)\
 San Francisco, CA, May 2024 <font color='gray'>(Acceptance Rate: 59.0%)</font>
 
-- [**<font color='#0074cc'>Build a Computationally Efficient Strong Defense against Adversarial Example Attacks</font>**](https://icissp.scitevents.org/Home.aspx)\
+- [**<font color='#0074cc'>Build a Computationally Efficient Strong Defense against Adversarial Example Attacks</font>**](https://www.scitepress.org/Papers/2024/123155/123155.pdf)\
 Changwei Liu, Louis DiValentin, **Aolin Ding**, Malek Ben Salem\
 The 10th International Conference on Information Systems Security and Privacy (ICISSP 2024)\
 Rome, Italy, Feb 2024 <font color='gray'>(Acceptance Rate: 36.0% - Short Paper)</font>
