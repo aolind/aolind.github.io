@@ -4,7 +4,7 @@ permalink: /services/index.html
 title: Professional Services
 ---
 
-### Program Committee:
+### Program Committee
 - Network and Distributed System Security Symposium (**NDSS**) 2025
 - IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) 2025
 - Annual Computer Security Applications Conference (**ACSAC**) 2024
@@ -14,13 +14,13 @@ title: Professional Services
 - International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
 - International Workshop on Re-design Industrial Control Systems with Security (**RICSS**) 2023, 2024
 
-### Artifact Evaluation Committee:
+### Artifact Evaluation Committee
 - USENIX Security Symposium (**USENIX**) 2024
 - ACM Conference on Computer and Communications Security (**CCS**) 2024
 - Network and Distributed System Security Symposium (**NDSS**) 2024, 2025
 - European Conference on Computer Systems (**EuroSys**) 2024
 
-### Journal Reviewer:
+### Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 - Computers & Security
 - ACM Transactions on Privacy and Security (**TOPS**)
@@ -29,7 +29,7 @@ title: Professional Services
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 
-### (External) Conference Reviewer:
+### (External) Conference Reviewer
 - USENIX Security Symposium (**USENIX**) 2022, 2023
 - Network and Distributed System Security Symposium (**NDSS**) 2021, 2023
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**) 2024
@@ -37,4 +37,3 @@ title: Professional Services
 - International Conference on Neural Information Processing (**ICONIP**) 2023
 - International Conference on Information Systems Security and Privacy (**ICISSP**) 2024
 - Symposium on Vehicle Security and Privacy (**VehicleSec**) 2023, 2024
-- IEEE Symposium on Wireless Technology & Applications (**ISWTA**) 2024

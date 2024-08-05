@@ -62,6 +62,10 @@ Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, H
 Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, Tempe, AZ, Mar 2017
 
 ### Patents
+- [**<font color='#0074cc'>Automated Cybersecurity Vulnerability Prioritization</font>**](https://www.freepatentsonline.com/y2024/0250979.html)\
+**Aolin Ding**, Hodaya Binyamini, Gal Engelberg, Louis William Divalentin, Benjamin Glen Mccarty, Dan Klein, Amin Hass
+US Patent App. 18/409,916, 2024
+
 - [**<font color='#0074cc'>Privacy-preserving Machine Learning Training Based on Homomorphic Encryption using Executable File Packages in an Untrusted Environment</font>**](https://patents.google.com/patent/US20230025754A1/en)\
 Amin Hassanzadeh, Neil Hayden Liberman, **Aolin Ding**, Malek Ben Salem\
 US Patent App. 17/383,314, 2023
