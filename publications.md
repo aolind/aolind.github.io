@@ -6,6 +6,11 @@ title: Publications
 
 ### Conference Papers
 
+- [**<font color='#0074cc'>Leaking Through the Physics: Covert Cyber-Physical Data Exfiltration Through Unobserved Physics</font>**](https://smartsp.eai-conferences.org/2024/)\
+Matthew Chan, Luis Garcia, Nathaniel Snyder, Marcus Lucas, **Aolin Ding**, Amin Hass, Oleg Sokolsky, James Weimer, Saman Zonouz and Mani Srivastava\
+The 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP 2024)\
+New Orleans, LA, Nov 2024 <font color='gray'>(Acceptance Rate: N/A)</font>
+
 - [**<font color='#0074cc'>ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks</font>**](https://www.usenix.org/conference/usenixsecurity24/presentation/tang)\
 [<font color='red'>Artifact Available, Functional, Reproduced</font>](https://github.com/Yoruko-Tang/ModelGuard)\
 Minxue Tang, Anna Dai, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
@@ -63,7 +68,7 @@ Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, T
 
 ### Patents
 - [**<font color='#0074cc'>Automated Cybersecurity Vulnerability Prioritization</font>**](https://www.freepatentsonline.com/y2024/0250979.html)\
-**Aolin Ding**, Hodaya Binyamini, Gal Engelberg, Louis William Divalentin, Benjamin Glen Mccarty, Dan Klein, Amin Hass
+**Aolin Ding**, Hodaya Binyamini, Gal Engelberg, Louis William Divalentin, Benjamin Glen Mccarty, Dan Klein, Amin Hass\
 US Patent App. 18/409,916, 2024
 
 - [**<font color='#0074cc'>Privacy-preserving Machine Learning Training Based on Homomorphic Encryption using Executable File Packages in an Untrusted Environment</font>**](https://patents.google.com/patent/US20230025754A1/en)\
