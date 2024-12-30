@@ -4,8 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-### Conference Papers
 **`*`** indicates co-first authors
+
+### Conference Papers
 
 - [**<font color='#0074cc'>An Empirical DNN Pruning Approach against Membership Inference Attacks</font>**](https://adiot.compute.dtu.dk/2024/)\
 Matthew Chan`*`, **Aolin Ding**`*`, Amin Hass, Saman Zonouz\
@@ -60,7 +61,7 @@ San Sebastian, Spain, Oct 2021 <font color='gray'>(Acceptance Rate: 23.2%)</font
 
 ### Preprints
 - [**<font color='#0074cc'>FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning</font>**](https://arxiv.org/abs/2409.08372)\
-Minxue Tang*, Yitu Wang*, Jingyang Zhang, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Hai Li\
+Minxue Tang`*`, Yitu Wang`*`, Jingyang Zhang, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Hai Li\
 arXiv preprint - arXiv:2409.08372 (2024)
 
 - [**<font color='#0074cc'>FADE: Enabling Large-Scale Federated Adversarial Training on Resource-Constrained Edge Device</font>**](https://arxiv.org/pdf/2209.03839.pdf)\
