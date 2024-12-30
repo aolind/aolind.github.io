@@ -8,12 +8,12 @@ title: Publications
 **`*`** indicates co-first authors
 
 - [**<font color='#0074cc'>An Empirical DNN Pruning Approach against Membership Inference Attacks</font>**](https://adiot.compute.dtu.dk/2024/)\
-Matthew Chan`*`, **Aolin Ding**`*`, Amin Hass, and Saman Zonouz\
+Matthew Chan`*`, **Aolin Ding**`*`, Amin Hass, Saman Zonouz\
 The 7th International Conference on Attacks and Defenses for Internet-of-Things (ADIoT 2024)\
 Hangzhou, China, Dec 2024 <font color='gray'>(Acceptance Rate: N/A)</font>
 
 - [**<font color='#0074cc'>Leaking Through the Physics: Covert Cyber-Physical Data Exfiltration Through Unobserved Physics</font>**](https://smartsp.eai-conferences.org/2024/)\
-Matthew Chan, Luis Garcia, Nathaniel Snyder, Marcus Lucas, **Aolin Ding**, Amin Hass, Oleg Sokolsky, James Weimer, Saman Zonouz and Mani Srivastava\
+Matthew Chan, Luis Garcia, Nathaniel Snyder, Marcus Lucas, **Aolin Ding**, Amin Hass, Oleg Sokolsky, James Weimer, Paulo Tabuada, Saman Zonouz, Mani Srivastava\
 The 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP 2024)\
 New Orleans, LA, Nov 2024 <font color='gray'>(Acceptance Rate: N/A)</font>
 
@@ -49,7 +49,7 @@ The 20th ACM International Conference on Mobile Systems, Applications, and Servi
 Portland, OR, Jun 2022 <font color='gray'>(Acceptance Rate: 21.6%)</font>
 
 - [**<font color='#0074cc'>Enhancement of Attack Detection Technology using AI with Synthetic-Log Generation</font>**](https://www.iwsec.org/scis/2022/program.html)\
-Takumi Yamamoto, Tsunato Nakai, Ruri Otsuka, Ye Wang, Kyeong Jin Kim, Toshiaki Koike-Akino, Iván Sanz Gorrachategui, **Aolin Ding**, Mamoru Abe, Ayako Yoshimura, and Kiyoto Kawauchi\
+Takumi Yamamoto, Tsunato Nakai, Ruri Otsuka, Ye Wang, Kyeong Jin Kim, Toshiaki Koike-Akino, Iván Sanz Gorrachategui, **Aolin Ding**, Mamoru Abe, Ayako Yoshimura, Kiyoto Kawauchi\
 The 39th Symposium on Cryptography and Information Security (SCIS 2022)\
 Osaka, Japan, Jan 2022 <font color='gray'>(Acceptance Rate: N/A)</font>
 
@@ -77,6 +77,10 @@ Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, H
 Cyber Resilient Energy Delivery Consortium (CREDC) Annual Industrial Workshop, Tempe, AZ, Mar 2017
 
 ### Patents
+- [**<font color='#0074cc'>Systems and Methods for Defending an Artificial Intelligence Model Against Adversarial Input</font>**](https://www.freepatentsonline.com/y2024/0386096.html)\
+Louis Divalentin, Changwei Liu, **Aolin Ding**, Malek Ben Salem\
+US Patent App. 18/199,360, 2024
+
 - [**<font color='#0074cc'>Automated Cybersecurity Vulnerability Prioritization</font>**](https://www.freepatentsonline.com/y2024/0250979.html)\
 **Aolin Ding**, Hodaya Binyamini, Gal Engelberg, Louis William Divalentin, Benjamin Glen Mccarty, Dan Klein, Amin Hass\
 US Patent App. 18/409,916, 2024
