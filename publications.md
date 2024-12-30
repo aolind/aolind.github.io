@@ -5,6 +5,12 @@ title: Publications
 ---
 
 ### Conference Papers
+**`*`** indicates co-first authors
+
+- [**<font color='#0074cc'>An Empirical DNN Pruning Approach against Membership Inference Attacks</font>**](https://adiot.compute.dtu.dk/2024/)\
+Matthew Chan*, **Aolin Ding***, Amin Hass, and Saman Zonouz\
+The 7th International Conference on Attacks and Defenses for Internet-of-Things (ADIoT 2024)\
+Hangzhou, China, Dec 2024 <font color='gray'>(Acceptance Rate: N/A)</font>
 
 - [**<font color='#0074cc'>Leaking Through the Physics: Covert Cyber-Physical Data Exfiltration Through Unobserved Physics</font>**](https://smartsp.eai-conferences.org/2024/)\
 Matthew Chan, Luis Garcia, Nathaniel Snyder, Marcus Lucas, **Aolin Ding**, Amin Hass, Oleg Sokolsky, James Weimer, Saman Zonouz and Mani Srivastava\
