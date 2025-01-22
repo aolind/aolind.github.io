@@ -12,7 +12,6 @@ title: Professional Services
 - International Conference on Information Systems Security (**ICISS**) 2024
 - International Conference on Information Systems Security and Privacy (**ICISSP**) 2025
 - International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
-- International Workshop on Re-design Industrial Control Systems with Security (**RICSS**) 2023, 2024
 
 ### Artifact Evaluation Committee
 - USENIX Security Symposium (**USENIX**) 2024

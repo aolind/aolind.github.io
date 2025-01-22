@@ -8,6 +8,11 @@ title: Publications
 
 ### Conference Papers
 
+- [**<font color='#0074cc'>Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility</font>**](https://iclr.cc/Conferences/2025)\
+Martin Kuo, Jingyang Zhang, Jianyi Zhang, Minxue Tang, Louis DiValentin, **Aolin Ding**, Jingwei Sun, William Chen, Amin Hass, Tianlong Chen, Yiran Chen, Hai Li\
+The 13th International Conference on Learning Representations (ICLR 2025)\
+Singapore EXPO, Apr 2025 <font color='gray'>(Acceptance Rate: 31.7%)</font>
+
 - [**<font color='#0074cc'>An Empirical DNN Pruning Approach against Membership Inference Attacks</font>**](https://adiot.compute.dtu.dk/2024/)\
 Matthew Chan`*`, **Aolin Ding**`*`, Amin Hass, Saman Zonouz\
 The 7th International Conference on Attacks and Defenses for Internet-of-Things (ADIoT 2024)\
