@@ -8,6 +8,11 @@ title: Publications
 
 ### Conference Papers
 
+- [**<font color='#0074cc'>FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning</font>**](https://mlsys.org/Conferences/2025)\
+Minxue Tang`*`, Yitu Wang`*`, Jingyang Zhang, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Hai Li\
+The 8th Annual Conference on Machine Learning and Systems (MLSys 2025)\
+Santa Clara, CA, May 2025 <font color='gray'>(Acceptance Rate: N/A)</font>
+
 - [**<font color='#0074cc'>Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility</font>**](https://iclr.cc/Conferences/2025)\
 Martin Kuo, Jingyang Zhang, Jianyi Zhang, Minxue Tang, Louis DiValentin, **Aolin Ding**, Jingwei Sun, William Chen, Amin Hass, Tianlong Chen, Yiran Chen, Hai Li\
 The 13th International Conference on Learning Representations (ICLR 2025)\
@@ -65,9 +70,9 @@ The 24th ACM International Symposium on Research in Attacks, Intrusions and Defe
 San Sebastian, Spain, Oct 2021 <font color='gray'>(Acceptance Rate: 23.2%)</font>
 
 ### Preprints
-- [**<font color='#0074cc'>FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning</font>**](https://arxiv.org/abs/2409.08372)\
-Minxue Tang`*`, Yitu Wang`*`, Jingyang Zhang, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Hai Li\
-arXiv preprint - arXiv:2409.08372 (2024)
+- [**<font color='#0074cc'>H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking</font>**](https://arxiv.org/abs/2502.12893)\
+Martin Kuo`*`, Jianyi Zhang`*`, **Aolin Ding**, Qinsi Wang, Louis DiValentin, Yujia Bao, Wei Wei, Da-Cheng Juan, Hai Li, and Yiran Chen\
+arXiv preprint - arXiv:2502.12893 (2025)
 
 - [**<font color='#0074cc'>FADE: Enabling Large-Scale Federated Adversarial Training on Resource-Constrained Edge Device</font>**](https://arxiv.org/pdf/2209.03839.pdf)\
 Minxue Tang, Jianyi Zhang, Mingyuan Ma, Louis DiValentin, **Aolin Ding**, Amin Hass, Hai Li, Yiran Chen\
