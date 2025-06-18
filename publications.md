@@ -8,17 +8,17 @@ title: Publications
 
 ### Conference Papers
 
-- [**<font color='#0074cc'>FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning</font>**](https://mlsys.org/Conferences/2025)\
+- [**<font color='#0074cc'>FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning</font>**](https://mlsys.org/virtual/2025/poster/3265)\
 Minxue Tang`*`, Yitu Wang`*`, Jingyang Zhang, Louis DiValentin, **Aolin Ding**, Amin Hass, Yiran Chen, Hai Li\
 The 8th Annual Conference on Machine Learning and Systems (MLSys 2025)\
-Santa Clara, CA, May 2025 <font color='gray'>(Acceptance Rate: N/A)</font>
+Santa Clara, CA, May 2025 <font color='gray'>(Acceptance Rate: 22.5%)</font>
 
-- [**<font color='#0074cc'>Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility</font>**](https://iclr.cc/Conferences/2025)\
+- [**<font color='#0074cc'>Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility</font>**](https://iclr.cc/virtual/2025/poster/28672)\
 Martin Kuo, Jingyang Zhang, Jianyi Zhang, Minxue Tang, Louis DiValentin, **Aolin Ding**, Jingwei Sun, William Chen, Amin Hass, Tianlong Chen, Yiran Chen, Hai Li\
 The 13th International Conference on Learning Representations (ICLR 2025)\
 Singapore EXPO, Apr 2025 <font color='gray'>(Acceptance Rate: 31.7%)</font>
 
-- [**<font color='#0074cc'>An Empirical DNN Pruning Approach against Membership Inference Attacks</font>**](https://adiot.compute.dtu.dk/2024/)\
+- [**<font color='#0074cc'>An Empirical DNN Pruning Approach against Membership Inference Attacks</font>**](https://link.springer.com/chapter/10.1007/978-3-031-85593-1_2)\
 Matthew Chan`*`, **Aolin Ding**`*`, Amin Hass, Saman Zonouz\
 The 7th International Conference on Attacks and Defenses for Internet-of-Things (ADIoT 2024)\
 Hangzhou, China, Dec 2024 <font color='gray'>(Acceptance Rate: N/A)</font>
@@ -70,8 +70,12 @@ The 24th ACM International Symposium on Research in Attacks, Intrusions and Defe
 San Sebastian, Spain, Oct 2021 <font color='gray'>(Acceptance Rate: 23.2%)</font>
 
 ### Preprints
+- [**<font color='#0074cc'>SafeTy Reasoning Elicitation Alignment for Multi-Turn Dialogues</font>**](https://arxiv.org/abs/2506.00668)\
+Martin Kuo, Jianyi Zhang, **Aolin Ding**, Louis DiValentin, Amin Hass, Benjamin F Morris, Isaac Jacobson, Randolph Linderman, James Kiessling, Nicolas Ramos, Bhavna Gopal, Maziyar Baran Pouyan, Changwei Liu, Hai Li, Yiran Chen\
+arXiv preprint - arXiv:2506.00668 (2025)
+
 - [**<font color='#0074cc'>H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking</font>**](https://arxiv.org/abs/2502.12893)\
-Martin Kuo`*`, Jianyi Zhang`*`, **Aolin Ding**, Qinsi Wang, Louis DiValentin, Yujia Bao, Wei Wei, Da-Cheng Juan, Hai Li, and Yiran Chen\
+Martin Kuo`*`, Jianyi Zhang`*`, **Aolin Ding**, Qinsi Wang, Louis DiValentin, Yujia Bao, Wei Wei, Da-Cheng Juan, Hai Li,  Yiran Chen\
 arXiv preprint - arXiv:2502.12893 (2025)
 
 - [**<font color='#0074cc'>FADE: Enabling Large-Scale Federated Adversarial Training on Resource-Constrained Edge Device</font>**](https://arxiv.org/pdf/2209.03839.pdf)\
@@ -96,13 +100,17 @@ US Patent App. 18/199,360, 2024
 **Aolin Ding**, Hodaya Binyamini, Gal Engelberg, Louis William Divalentin, Benjamin Glen Mccarty, Dan Klein, Amin Hass\
 US Patent App. 18/409,916, 2024
 
-- [**<font color='#0074cc'>Privacy-preserving Machine Learning Training Based on Homomorphic Encryption using Executable File Packages in an Untrusted Environment</font>**](https://patents.google.com/patent/US20230025754A1/en)\
+- [**<font color='#0074cc'>Privacy-preserving Machine Learning Training Based on Homomorphic Encryption using Executable File Packages in an Untrusted Environment</font>**](https://patents.google.com/patent/US12248601B2/en)\
 Amin Hassanzadeh, Neil Hayden Liberman, **Aolin Ding**, Malek Ben Salem\
-US Patent App. 17/383,314, 2023
+US Patent 12,248,601, 2023
 
-- [**<font color='#0074cc'>Privacy Preserving Cooperative Learning in Untrusted Environments</font>**](https://patents.google.com/patent/US20220300618A1/en)\
+- [**<font color='#0074cc'>System and Method for Explainable Anomaly Detection</font>**](https://patents.google.com/patent/US20240202325A1/en)\
+Kyeong Jin Kim, **Aolin Ding**, Ye Wang, Koike Akino Toshiaki, and Kieran Parsons\
+US Patent App. 18/068,537, 2022
+
+- [**<font color='#0074cc'>Privacy Preserving Cooperative Learning in Untrusted Environments</font>**](https://patents.google.com/patent/US12229280B2/en)\
 **Aolin Ding**, Amin Hassanzadeh\
-US Patent App. 17/695,820, 2022
+US Patent 12,229,280, 2022
 
 - [**<font color='#0074cc'>Privacy-preserving Collaborative Machine Learning Training using Distributed Executable File Packages in an Untrusted Environment</font>**](https://patents.google.com/patent/US20220414661A1/en)\
 Amin Hassanzadeh, Neil Hayden Liberman, **Aolin Ding**, Malek Ben Salem\
