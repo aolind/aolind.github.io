@@ -10,7 +10,7 @@ title: Professional Services
 - Annual Computer Security Applications Conference (**ACSAC**) 2024
 - International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**) 2024
 - International Conference on Information Systems Security (**ICISS**) 2024
-- International Conference on Information Systems Security and Privacy (**ICISSP**) 2025
+- International Conference on Information Systems Security and Privacy (**ICISSP**) 2025, 2026
 - International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
 
 ### Artifact Evaluation Committee
