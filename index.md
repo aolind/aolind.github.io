@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-Here is **Aolin Ding**. I am an AI Research Scientist at Accenture's Center for Advanced AI. As the Security Tech Lead, I lead a security and evaluation team developing [<font color='0074cc'>AI Refinery</font>](https://airefinery.accenture.com/) and [<font color='0074cc'>its SDK</font>](https://sdk.airefinery.accenture.com/ai_refinery_101/) — an industry AI multi-agent platform. My team was among the first worldwide to publish successful [<font color='0074cc'>jailbreaks</font>](https://arxiv.org/abs/2502.12893) of large reasoning models (LRMs) in collaboration with university partners. Previously, I worked as a Research Associate Principal at Accenture Labs, focusing on AI safety, LLM security, PII protection, and privacy-preserving ML.
+Here is **Aolin Ding**. I am an AI Research Scientist at Accenture's Center for Advanced AI. As a Security Tech Lead, I lead the security and evaluation team developing [<font color='0074cc'>AI Refinery</font>](https://airefinery.accenture.com/) and [<font color='0074cc'>its SDK</font>](https://sdk.airefinery.accenture.com/ai_refinery_101/) — an industry AI multi-agent platform. My team was among the first worldwide to publish successful [<font color='0074cc'>jailbreaks</font>](https://arxiv.org/abs/2502.12893) of large reasoning models (LRMs) in collaboration with university partners. Previously, I worked as a Research Associate Principal at Accenture Labs, focusing on AI safety, LLM security, PII protection, and privacy-preserving ML.
 
 <br>
 
