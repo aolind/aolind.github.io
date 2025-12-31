@@ -101,6 +101,10 @@ San Sebastian, Spain, Oct 2021 <font color='gray'>(Acceptance Rate: 23.2%)</font
 
 ### Patents
 
+- [**<font color='#0074cc'>Adaptive Data Augmentation and Calibration For Textual Pattern Recognition</font>**](https://patents.google.com)\
+Minxue Tang, Yangyang Yu, <u><b>Aolin Ding</b></u>, Maziyar Baran Pouyan, Taha Belkhouja, Yujia Bao\
+U.S. Patent App. 19/423,441, 2025 <font color='gray'>(Pending)</font>
+
 - [**<font color='#0074cc'>Contextual Sanitization and Re-enrichment using Large Language Models</font>**](https://patents.google.com)\
 Malek Ben Salem, Louis Divalentin, <u><b>Aolin Ding</b></u>\
 U.S. Patent App. 18/811,540, 2024 <font color='gray'>(Pending)</font>
