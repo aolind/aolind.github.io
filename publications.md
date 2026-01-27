@@ -6,11 +6,14 @@ title: Publications
 
 **`*`** indicates co-first authors
 
-### 2025
+### 2026
 
 - [**<font color='#0074cc'>MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers</font>**](https://www.arxiv.org/abs/2508.20453)\
 Zhenting Wang, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, <u><b>Aolin Ding</b></u>, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow\
-arXiv preprint - arXiv:2508.20453 (2025)
+The 14th International Conference on Learning Representations (ICLR 2026)\
+Rio de Janeiro, Brazil, Apr 2026 <font color='gray'>(Acceptance Rate: 28.1%)</font>
+
+### 2025
 
 - [**<font color='#0074cc'>SafeTy Reasoning Elicitation Alignment for Multi-Turn Dialogues</font>**](https://arxiv.org/abs/2506.00668)\
 Martin Kuo, Jianyi Zhang, <u><b>Aolin Ding</b></u>, Louis DiValentin, Amin Hass, Benjamin F Morris, Isaac Jacobson, Randolph Linderman, James Kiessling, Nicolas Ramos, Bhavna Gopal, Maziyar Baran Pouyan, Changwei Liu, Hai Li, Yiran Chen\
