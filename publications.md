@@ -8,7 +8,12 @@ title: Publications
 
 ### 2026
 
-- [**<font color='#0074cc'>MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers</font>**](https://www.arxiv.org/abs/2508.20453)\
+- [**<font color='#0074cc'>Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition</font>**](https://cvpr.thecvf.com/)\
+Minxue Tang`*`, Yangyang Yu`*`, <u><b>Aolin Ding</b></u>, Maziyar Baran Pouyan, Taha Belkhouja, Yujia Bao\
+The 43rd IEEE/CVF Conference on Computer Vision & Pattern Recognition (CVPR 2026)\
+Denver, CO, June 2026 <font color='gray'>(Acceptance Rate: N/A)</font>
+
+- [**<font color='#0074cc'>MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers</font>**](https://iclr.cc/virtual/2026/poster/10008216)\
 Zhenting Wang, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, <u><b>Aolin Ding</b></u>, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow\
 The 14th International Conference on Learning Representations (ICLR 2026)\
 Rio de Janeiro, Brazil, Apr 2026 <font color='gray'>(Acceptance Rate: 28.1%)</font>
