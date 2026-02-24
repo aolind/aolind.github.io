@@ -11,7 +11,7 @@ title: Publications
 - [**<font color='#0074cc'>Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition</font>**](https://cvpr.thecvf.com/)\
 Minxue Tang`*`, Yangyang Yu`*`, <u><b>Aolin Ding</b></u>, Maziyar Baran Pouyan, Taha Belkhouja, Yujia Bao\
 The 43rd IEEE/CVF Conference on Computer Vision & Pattern Recognition (CVPR 2026)\
-Denver, CO, June 2026 <font color='gray'>(Acceptance Rate: N/A)</font>
+Denver, CO, June 2026 <font color='gray'>(Acceptance Rate: 25.4%)</font>
 
 - [**<font color='#0074cc'>MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers</font>**](https://iclr.cc/virtual/2026/poster/10008216)\
 Zhenting Wang, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, <u><b>Aolin Ding</b></u>, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow\
@@ -80,7 +80,7 @@ Porto, Portugal, Jun 2023 <font color='gray'>(Acceptance Rate: 20.0%)</font>
 
 - [**<font color='#0074cc'>Evaluating Input Transformation Ensembles Against Adversarial Attacks</font>**](https://link.springer.com/chapter/10.1007/978-3-031-89518-0_5)\
 Changwei Liu, Louis DiValentin, <u><b>Aolin Ding</b></u>, Malek Ben Salem\
-Information Systems Security and Privacy. Communications in Computer and Information Science, vol 2459. Springer, Cham. 2023. <font color='gray'>(Selection Rate for Journal Publication: 5.3%)</font>
+Information Systems Security and Privacy. Communications in Computer and Information Science, vol 2459. Springer, Cham. 2023. <font color='gray'>(Invitation Rate for Journal Publication: 5.3%)</font>
 
 ### 2022
 
