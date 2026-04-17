@@ -1,2 +1,16 @@
 # Local Claude Code instructions (private, not for repo)
-CLAUDE.local.md
+CLAUDE.md
+.claude/memory/
+.claude/projects/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Citation analysis (private data and output)
+citations/
