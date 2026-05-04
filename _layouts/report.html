@@ -528,19 +528,18 @@ fpts.forEach(p=>{
   const dailyVel = Math.max((current - baseVal) / 30, 0.1);
   const targets = [350,400,500,750,1000].filter(t => t > current);
   const colors  = ['#2d7a4f','#1a5fa8','#b5811a','#6b3fa0','#c0392b'];
-  const prevMilestone = [250,300,350,400,500,750].filter(t => t <= current).pop() || 0;
   const el = document.getElementById('milestones');
   targets.slice(0,4).forEach((target, i) => {
     const gap = target - current;
     const eta = addDays(snaps[N-1].date, Math.ceil(gap / dailyVel));
-    const pct = Math.round(((current - prevMilestone) / (target - prevMilestone)) * 100);
+    const pct = Math.round((current / target) * 100);
     const color = colors[i % colors.length];
     const div = document.createElement('div');
     div.className = 'milestone';
     div.innerHTML = `
       <div class="milestone-top">
         <span class="milestone-label" style="color:${color}">${target} citations</span>
-        <span class="milestone-gap">−${gap} to go</span>
+        <span class="milestone-gap">${current} / ${target} · ${gap} to go</span>
       </div>
       <div class="milestone-bar-track">
         <div class="milestone-bar-fill" style="width:0%;background:${color}" data-pct="${pct}"></div>
@@ -708,33 +707,68 @@ const d30=addDays(last.date,-30);
 const vels=DATA.papers.map(p=>({
   paper:p, vel:(p.series[p.series.length-1].count-(citAtOrBefore(p,d30)||0))/30
 })).sort((a,b)=>b.vel-a.vel);
-const nearH=DATA.papers.filter(p=>{const c=p.series[p.series.length-1].count;return c<hIdx&&c>=hIdx-3;})
+const nearH=DATA.papers.filter(p=>{const c=p.series[p.series.length-1].count;return c<hIdx&&c>=Math.max(1,hIdx-5);})
   .sort((a,b)=>b.series[b.series.length-1].count-a.series[a.series.length-1].count);
 const lowDisc=DATA.papers.filter(p=>p.year<=new Date().getFullYear()-2&&p.series[p.series.length-1].count<10);
+const nearI10=DATA.papers.filter(p=>{const c=p.series[p.series.length-1].count;return c<10&&c>=4;})
+  .sort((a,b)=>b.series[b.series.length-1].count-a.series[a.series.length-1].count);
+
+// Index Boost: papers strictly below h, plus i10 fillers (4–9 cites) deduped against the h-set.
+const indexTargets=[
+  ...nearH.map(p=>{const c=p.series[p.series.length-1].count;return {paper:p,cites:c,need:Math.max(0,(hIdx+1)-c),tier:'h-index'};}),
+  ...nearI10.filter(p=>!nearH.includes(p)).map(p=>{const c=p.series[p.series.length-1].count;return {paper:p,cites:c,need:10-c,tier:'i10'};})
+];
+const indexBoostItems=indexTargets.map(t=>{
+  const p=t.paper;
+  return `<strong>[${t.tier}]</strong> ${p.title}<span class="tag">${p.year} · ${t.cites} cites · need +${t.need}</span>`;
+});
+
+// Promotion Playbook: same target list as Index Boost, plus a shared channel-tactics table
+// rendered once at the bottom of the card.
+const promoteItems=indexTargets.map(t=>{
+  const p=t.paper;
+  return `<strong>[${t.tier}]</strong> ${p.title}<span class="tag">${p.year} · ${t.cites} cites · need +${t.need}</span>`;
+});
+const promoTable=`<table style="width:100%;margin-top:10px;border-collapse:collapse;font-size:0.78rem">
+  <thead><tr style="border-bottom:1px solid var(--border);color:var(--muted);text-align:left">
+    <th style="padding:4px 8px 4px 0;font-weight:500;width:110px">Channel</th>
+    <th style="padding:4px 0;font-weight:500">Tactic</th>
+  </tr></thead>
+  <tbody>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>ResearchGate</strong></td><td style="padding:4px 0;color:var(--ghost)">Upload full PDF, request endorsement, tag co-authors so it appears on their feeds.</td></tr>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>arXiv</strong></td><td style="padding:4px 0;color:var(--ghost)">Post preprint under cs.CR / cs.LG; cross-list to relevant categories to widen discovery.</td></tr>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>Twitter/X</strong></td><td style="padding:4px 0;color:var(--ghost)">Post a 1-paragraph summary + figure; tag senior researchers in the area.</td></tr>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>LinkedIn</strong></td><td style="padding:4px 0;color:var(--ghost)">Same as Twitter but longer-form; targets practitioners and recruiters.</td></tr>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>Google Scholar</strong></td><td style="padding:4px 0;color:var(--ghost)">Verify the entry has a correct DOI/venue; manually attach the PDF if missing.</td></tr>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>Talks</strong></td><td style="padding:4px 0;color:var(--ghost)">Propose a workshop talk or invited seminar to amplify reach.</td></tr>
+    <tr><td style="padding:4px 8px 4px 0;color:var(--ink)"><strong>Self-cite</strong></td><td style="padding:4px 0;color:var(--ghost)">Cite this paper in your next related submission for a near-guaranteed citation.</td></tr>
+  </tbody>
+</table>`;
 
 const cardDefs=[
   { icon:'⚡', title:'High Velocity — Promote Now',
     body:'Top papers by citations/day (last 30 days). Promote while momentum is active.',
     items:vels.slice(0,3).map(v=>`${v.paper.title}<span class="tag">${v.vel.toFixed(2)}/day</span>`) },
-  { icon:'🎯', title:`h-index Target (h = ${hIdx})`,
-    body:`Papers just below h=${hIdx}. Each citation gained here directly raises your h-index.`,
-    items:nearH.length?nearH.map(p=>{const c=p.series[p.series.length-1].count;return `${p.title}<span class="tag">gap ${hIdx-c}</span>`})
-      :['<span style="color:var(--green)">All tracked papers meet or exceed h-index threshold.</span>'] },
-  { icon:'🔍', title:'Discoverability',
-    body:'Published 2+ years ago with fewer than 10 citations. Check arXiv, ResearchGate, and keyword optimization.',
-    items:lowDisc.length?lowDisc.map(p=>{const c=p.series[p.series.length-1].count;return `${p.title}<span class="tag">${p.year} · ${c}</span>`})
-      :['<span style="color:var(--green)">No low-cited older papers found.</span>'] },
-  { icon:'🔗', title:'Deduplication',
-    body:'Papers detected with variant titles across snapshots — may count citations separately.',
-    items: DATA.dedupNotes && DATA.dedupNotes.length ? DATA.dedupNotes
-      : ['No deduplication issues detected across snapshots.'] }
+  { icon:'🎯', title:`Index Boost (h = ${hIdx} → ${hIdx+1}, i10 = ${i10Idx} → ${i10Idx+1})`,
+    body:`<strong>h-index priority:</strong> push papers near the h-threshold past ${hIdx+1} citations — biggest impact. <strong>i10 fillers:</strong> papers in the 4–9 citation band that, once past 10 cites, also raise i10.`,
+    items:indexBoostItems.length?indexBoostItems
+      :['<span style="color:var(--green)">No candidate papers near either threshold.</span>'] },
+  { icon:'📣', title:'Promotion Playbook',
+    body:'Concrete channels to push the Index Boost targets. Each channel targets a different audience — pick 2–3 per paper rather than blasting all of them.',
+    items:promoteItems.length?promoteItems
+      :['<span style="color:var(--green)">No promotion targets — all papers above thresholds.</span>'],
+    extra:promoteItems.length?promoTable:'' },
+  { icon:'🔍', title:'Discoverability — Underperforming Papers',
+    body:'Published 2+ years ago with fewer than 10 citations. Add to Google Scholar manually if missing, post preprints to arXiv, ensure DOI is correct, and add keywords to abstract on personal site.',
+    items:lowDisc.length?lowDisc.map(p=>{const c=p.series[p.series.length-1].count;return `${p.title}<span class="tag">${p.year} · ${c} cites</span>`})
+      :['<span style="color:var(--green)">No low-cited older papers found.</span>'] }
 ];
 
 const cardsEl=document.getElementById('cards');
 cardDefs.forEach(def=>{
   const card=document.createElement('div');
   card.className='card';
-  card.innerHTML=`<span class="card-icon">${def.icon}</span><h3>${def.title}</h3><p>${def.body}</p><ul>${def.items.map(it=>`<li>${it}</li>`).join('')}</ul>`;
+  card.innerHTML=`<span class="card-icon">${def.icon}</span><h3>${def.title}</h3><p>${def.body}</p><ul>${def.items.map(it=>`<li>${it}</li>`).join('')}</ul>${def.extra||''}`;
   cardsEl.appendChild(card);
 });
 

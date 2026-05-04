@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "read -r line; fp=$(echo \"$line\" | jq -r '.tool_input.file_path // empty'); case \"$fp\" in \"$CLAUDE_PROJECT_DIR/_layouts/report.html\"|\"$CLAUDE_PROJECT_DIR/_layouts/default.html\"|\"$CLAUDE_PROJECT_DIR/_includes/scripts.html\") node \"$CLAUDE_PROJECT_DIR/scripts/check-html-js.mjs\" \"$CLAUDE_PROJECT_DIR/_layouts/report.html\" \"$CLAUDE_PROJECT_DIR/_layouts/default.html\" \"$CLAUDE_PROJECT_DIR/_includes/scripts.html\" ;; *) exit 0 ;; esac",
+            "statusMessage": "Validating <script> blocks..."
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "read -r line; cmd=$(echo \"$line\" | jq -r '.tool_input.command // empty'); if echo \"$cmd\" | grep -Eq 'git[[:space:]]+(-c[[:space:]]+\\S+[[:space:]]+)*commit\\b'; then node \"$CLAUDE_PROJECT_DIR/scripts/validate-report.mjs\"; else exit 0; fi",
+            "statusMessage": "Validating citations/report.html..."
+          }
+        ]
+      }
+    ]
+  }
+}
