@@ -12,5 +12,6 @@ CLAUDE.md
 .AppleDouble
 .LSOverride
 
-# Citation analysis (private data and output)
+# Private data and output
 citations/
+search-optimization.md
