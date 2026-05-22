@@ -35,6 +35,7 @@ The 13th International Conference on Learning Representations (ICLR 2025)\
 Singapore EXPO, Apr 2025 <font color='gray'>(Acceptance Rate: 31.7%)</font>
 
 - [**<font color='#0074cc'>H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking</font>**](https://arxiv.org/abs/2502.12893)\
+[<font color='red'>Press: The Register</font>](https://www.theregister.com/2025/02/25/chain_of_thought_jailbreaking/) · [<font color='red'>Press: Decrypt</font>](https://decrypt.co/348552/one-weird-trick-defeats-ai-safety-features-99-percent)\
 Martin Kuo`*`, Jianyi Zhang`*`, <u><b>Aolin Ding</b></u>, Qinsi Wang, Louis DiValentin, Yujia Bao, Wei Wei, Da-Cheng Juan, Hai Li,  Yiran Chen\
 arXiv preprint - arXiv:2502.12893 (2025)
 
