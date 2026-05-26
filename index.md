@@ -5,7 +5,7 @@ description: "Security Research Scientist Manager at Accenture. Publications at 
 
 ### About Me
 
-Here is <b>Aolin Ding</b>. I am a Security Research Scientist and manager at Accenture. I lead a team designing and evaluating the security technologies to reveal critical security vulnerabilities in modern cyber-physical and AI-driven systems. My team was among the first worldwide to systematically expose and publish successful adversarial exploits of large reasoning models (LRMs) in collaboration with university partners — [<font color='#0074cc'>as reported by The Register</font>](https://www.theregister.com/2025/02/25/chain_of_thought_jailbreaking/). Previously, I worked as a Security R&D Associate Principal at Accenture Labs, focusing on AI system safety, PII protection, and privacy-preserving ML.
+Here is <b>Aolin Ding</b>. I am a Security Research Scientist and Manager at Accenture. I lead a team designing and evaluating the security technologies to reveal critical security vulnerabilities in modern cyber-physical and AI-driven systems. My team was among the first worldwide to systematically expose and publish successful adversarial exploits of large reasoning models (LRMs) in collaboration with university partners — [<font color='#0074cc'>as reported by The Register</font>](https://www.theregister.com/2025/02/25/chain_of_thought_jailbreaking/). Previously, I worked as a Security R&D Associate Principal at Accenture Labs, focusing on AI system safety, PII protection, and privacy-preserving ML.
 
 <br>
 

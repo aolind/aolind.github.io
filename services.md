@@ -10,10 +10,10 @@ title: Professional Services
 - Annual Computer Security Applications Conference (**ACSAC**) 2024
 - International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**) 2024
 - International Conference on Information Systems Security (**ICISS**) 2024
-- International Conference on Information Systems Security and Privacy (**ICISSP**) 2025, 2026
+- International Conference on Information Systems Security and Privacy (**ICISSP**) 2025, 2026, 2027
 - International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (**SmartSP**) 2024
 - International Conference of the Immersive Learning Research Network (**iLRN**) 2024
-- Workshop on Internet of Safe Things (**SafeThings**) 2025
+- Workshop on Internet of Safe Things @IEEE S&P (**SafeThings**) 2025
 - Workshop on Dependable and Secure Machine Learning @DSN (**DSML**) 2025
 - Workshop on Re-design Industrial Control Systems with Security @CCS (**RICSS**) 2023, 2024
 - Workshop on Security and Privacy of Sensing Systems @SenSys (**SensorsS&P**) 2023
@@ -28,6 +28,7 @@ title: Professional Services
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**) 2023, 2025
 - Computers & Security 2022, 2023, 2024, 2026
 - ACM Transactions on Privacy and Security (**TOPS**) 2024
+- IEEE Transactions on Mobile Computing (**TMC**) 2026
 - IEEE/ACM Transactions on Networking (**TNET**) 2024
 - Computer Networks 2024
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**) 2023

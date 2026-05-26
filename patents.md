@@ -6,7 +6,7 @@ title: Patents
 
 ### Granted
 
-- [**<font color='#0074cc'>Automated Cybersecurity Vulnerability Prioritization</font>**](https://www.freepatentsonline.com/y2024/0250979.html)\
+- [**<font color='#0074cc'>Automated Cybersecurity Vulnerability Prioritization</font>**](https://patents.google.com/patent/US12476994B2/en)\
 <u><b>Aolin Ding</b></u>, Hodaya Binyamini, Gal Engelberg, Louis William Divalentin, Benjamin Glen Mccarty, Dan Klein, Amin Hass\
 U.S. Patent No. 12,476,994, 2024 <font color='gray'>(Granted)</font>\
 *Ranks security vulnerabilities by risk so defenders can fix the most dangerous weaknesses first.*
