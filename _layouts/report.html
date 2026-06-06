@@ -372,6 +372,11 @@ footer { border-top: 1px solid var(--border); padding: 16px 0; background: var(-
       </div>
       <div class="table-label" style="border-top:1px solid var(--border);">Milestone Tracker</div>
       <div id="milestones" style="padding:10px 14px 12px;display:flex;flex-direction:column;gap:8px;"></div>
+      <div class="table-label" style="border-top:1px solid var(--border);">Quarter-End Projections</div>
+      <table>
+        <thead><tr><th>Quarter</th><th>Date</th><th>Linear</th><th>Holt</th></tr></thead>
+        <tbody id="quarterBody"></tbody>
+      </table>
     </div>
     <div class="table-panel">
       <div class="table-label">Paper Velocity &amp; 12-Month Projection</div>
@@ -474,6 +479,33 @@ const holtF=d=>Math.round(lv[N-1]+(d/avgGap)*tr[N-1]);
 const horizons=[{l:"+3 mo",d:91},{l:"+6 mo",d:182},{l:"+9 mo",d:274},{l:"+12 mo",d:365}];
 const fpts=horizons.map(h=>({label:h.l,date:addDays(snaps[N-1].date,h.d),lin:linF(h.d),holt:holtF(h.d)}));
 
+// ── Quarter-end projections ───────────────────────────────────────────────
+// Project citations at each upcoming calendar quarter end (Mar 31, Jun 30, Sep 30, Dec 31).
+(function(){
+  const qbody=document.getElementById('quarterBody');
+  const lastDate=new Date(snaps[N-1].date);
+  const qEnds=[[2,31],[5,30],[8,30],[11,31]]; // [monthIndex, day] for Q1–Q4 ends
+  const quarters=[];
+  let yr=lastDate.getUTCFullYear();
+  // walk forward until we have the next 4 quarter ends strictly after the latest snapshot
+  for(let y=yr;y<=yr+2 && quarters.length<4;y++){
+    qEnds.forEach(([m,day])=>{
+      if(quarters.length>=4) return;
+      const qd=new Date(Date.UTC(y,m,day));
+      if(qd>lastDate){
+        const iso=qd.toISOString().slice(0,10);
+        const days=Math.round((qd-lastDate)/86400000);
+        quarters.push({label:`Q${m===2?1:m===5?2:m===8?3:4} ${y}`,date:iso,lin:linF(days),holt:holtF(days)});
+      }
+    });
+  }
+  quarters.forEach(q=>{
+    const row=document.createElement('tr');
+    row.innerHTML=`<td class="mono">${q.label}</td><td class="mono" style="color:var(--muted)">${q.date}</td><td class="mono">${q.lin}</td><td class="mono" style="color:var(--gold);font-weight:500">${q.holt}</td>`;
+    qbody.appendChild(row);
+  });
+})();
+
 // ── Forecast table ────────────────────────────────────────────────────────
 const fbody=document.getElementById('forecastBody');
 fpts.forEach(p=>{
@@ -555,7 +587,7 @@ fpts.forEach(p=>{
 // ── Velocity table ────────────────────────────────────────────────────────
 const last=snaps[N-1], d60=addDays(last.date,-60), d120=addDays(last.date,-120);
 const vbody=document.getElementById('velocityBody');
-DATA.papers.forEach(paper=>{
+[...DATA.papers].sort((a,b)=>b.series[b.series.length-1].count-a.series[a.series.length-1].count).forEach(paper=>{
   const cur=paper.series[paper.series.length-1].count;
   const at60=citAtOrBefore(paper,d60)||0, at120=citAtOrBefore(paper,d120)||0;
   const vR=cur-at60, vP=at60-at120;
