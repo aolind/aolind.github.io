@@ -46,11 +46,6 @@ Matthew Chan`*`, <u><b>Aolin Ding</b></u>`*`, Amin Hass, Saman Zonouz\
 The 7th International Conference on Attacks and Defenses for Internet-of-Things (ADIoT 2024)\
 Hangzhou, China, Dec 2024 <font color='gray'>(Acceptance Rate: 24.4%)</font>
 
-- [**<font color='#0074cc'>Leaking Through the Physics: Covert Cyber-Physical Data Exfiltration Through Unobserved Physics</font>**](https://smartsp.eai-conferences.org/2024/)\
-Matthew Chan, Luis Garcia, Nathaniel Snyder, Marcus Lucas, <u><b>Aolin Ding</b></u>, Amin Hass, Oleg Sokolsky, James Weimer, Paulo Tabuada, Saman Zonouz, Mani Srivastava\
-The 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP 2024)\
-New Orleans, LA, Nov 2024 <font color='gray'>(Acceptance Rate: N/A)</font>
-
 - [**<font color='#0074cc'>ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks</font>**](https://www.usenix.org/conference/usenixsecurity24/presentation/tang)\
 [<font color='red'>Artifact Available, Functional, Reproduced</font>](https://github.com/Yoruko-Tang/ModelGuard)\
 Minxue Tang, Anna Dai, Louis DiValentin, <u><b>Aolin Ding</b></u>, Amin Hass, Yiran Chen, Neil Zhenqiang Gong, Hai "Helen" Li\
@@ -79,10 +74,6 @@ Changsha, China, Nov 2023 <font color='gray'>(Acceptance Rate: 20.1% - Full Pape
 The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (DSN 2023)\
 Porto, Portugal, Jun 2023 <font color='gray'>(Acceptance Rate: 20.0%)</font>
 
-- [**<font color='#0074cc'>Evaluating Input Transformation Ensembles Against Adversarial Attacks</font>**](https://link.springer.com/chapter/10.1007/978-3-031-89518-0_5)\
-Changwei Liu, Louis DiValentin, <u><b>Aolin Ding</b></u>, Malek Ben Salem\
-Information Systems Security and Privacy. Communications in Computer and Information Science, vol 2459. Springer, Cham. 2023. <font color='gray'>(Invitation Rate for Journal Publication: 5.3%)</font>
-
 ### 2022
 
 - [**<font color='#0074cc'>Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch</font>**](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938)\
@@ -93,11 +84,6 @@ Portland, OR, Jun 2022 <font color='gray'>(Acceptance Rate: 21.6%)</font>
 - [**<font color='#0074cc'>FADE: Enabling Large-Scale Federated Adversarial Training on Resource-Constrained Edge Device</font>**](https://arxiv.org/pdf/2209.03839.pdf)\
 Minxue Tang, Jianyi Zhang, Mingyuan Ma, Louis DiValentin, <u><b>Aolin Ding</b></u>, Amin Hass, Hai Li, Yiran Chen\
 arXiv preprint - arXiv:2209.03839 (2022)
-
-- [**<font color='#0074cc'>Enhancement of Attack Detection Technology using AI with Synthetic-Log Generation</font>**](https://www.iwsec.org/scis/2022/program.html)\
-Takumi Yamamoto, Tsunato Nakai, Ruri Otsuka, Ye Wang, Kyeong Jin Kim, Toshiaki Koike-Akino, Iván Sanz Gorrachategui, <u><b>Aolin Ding</b></u>, Mamoru Abe, Ayako Yoshimura, Kiyoto Kawauchi\
-The 39th Symposium on Cryptography and Information Security (SCIS 2022)\
-Osaka, Japan, Jan 2022 <font color='gray'>(Acceptance Rate: N/A)</font>
 
 ### 2021
 
