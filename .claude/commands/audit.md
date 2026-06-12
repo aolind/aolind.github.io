@@ -33,9 +33,8 @@ Walk through every changed file. For each, evaluate:
 2. **Regressions** — does this break adjacent functionality? Variable scope conflicts (e.g. duplicate `const` declarations like the `i10Idx` bug we previously hit), broken selectors, lost CSS rules, dead links.
 3. **Conventions** — does it match the project's patterns documented in `CLAUDE.md`? Author-name styling rules, font-color conventions, layout hierarchy, citation format.
 4. **JavaScript embedded in HTML** — for any `<script>` block changes: would `node --check`-style syntax validation pass? Are template literals balanced? Any `<X` substrings that the HTML parser would treat as tags?
-5. **Data integrity** — for citation-analysis changes (cache.json, report data), are keys consistent across snapshots? Any duplicate or stale entries?
-6. **Security** — secrets, tokens, credentials accidentally committed; XSS risks from un-escaped user data; unsafe innerHTML interpolation.
-7. **Hooks/CI** — if `.claude/settings.json`, `scripts/`, or build-related files changed, will the hooks still fire correctly? Test the command logic mentally against the documented stdin payload.
+5. **Security** — secrets, tokens, credentials accidentally committed; XSS risks from un-escaped user data; unsafe innerHTML interpolation.
+6. **Hooks/CI** — if `.claude/settings.json`, `scripts/`, or build-related files changed, will the hooks still fire correctly? Test the command logic mentally against the documented stdin payload.
 
 ## How to investigate
 
